@@ -139,6 +139,15 @@ span.span {
     font-weight: bold;
 }
 
+.experienceTittle {
+    margin-bottom: 20px;
+    display: none;
+}
+
+.experienceInfo_container {
+    margin-bottom: 150px;
+}
+
 .experienceInfo_container_wrap {
     display: flex;
     margin-bottom: 50px;
@@ -191,6 +200,11 @@ span.span {
 
 .projectsInfo_container {
     margin-bottom: 150px;
+}
+
+.projectTittle {
+    margin-bottom: 20px;
+    display: none;
 }
 
 .projectsInfo_container_wrap {
