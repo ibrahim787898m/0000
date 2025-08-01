@@ -299,6 +299,41 @@ span.span {
     }
 }
 
+@media screen and (max-width: 992px) {
+    section#main_container {
+        padding: 60px 30px;
+    }
+
+    .left_container {
+        width: 250px;
+    }
+
+    .right_container {
+        margin-left: 300px;
+    }
+
+    .name h1 {
+        font-size: 40px;
+    }
+
+    .bio p {
+        font-size: 16px;
+    }
+
+    .about p {
+        font-size: 15px;
+    }
+
+    .page_links li {
+        margin-bottom: 10px;
+    }
+
+    .social_links ul li a {
+        font-size: 20px;
+    }
+    
+}
+
 
 @media screen and (max-width: 768px) {
     section#main_container {
